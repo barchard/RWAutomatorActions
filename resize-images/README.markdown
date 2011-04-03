@@ -1,0 +1,3 @@
+This Automator action will take an image or a folder of images and resize (scale) these images to a uniform size in pixels. Prior to running this action, please change the last step of the action to the desired size. By default, this action is set to scale to 480px.
+
+**IMPORTANT** This action *will* overwrite your images. It is recommended that you only perform this action on a *copy* of your images.
